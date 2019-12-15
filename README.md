@@ -11,11 +11,14 @@ dependencies {
 
 ## Getting started
 
-  Put in Main Project Gradle
+  -Put in Main Project Gradle
   
     maven { 
          url 'https://jitpack.io'
      } 
+
+
+  -Put required permission defined in example
 
 
   #### For Java
