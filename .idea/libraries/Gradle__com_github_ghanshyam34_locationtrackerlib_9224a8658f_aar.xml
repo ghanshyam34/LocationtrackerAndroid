@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ghanshyam34:locationtrackerlib:9224a8658f@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb44da94cb3a5de500b89bd0454ffcbd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb44da94cb3a5de500b89bd0454ffcbd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ghanshyam34/locationtrackerlib/9224a8658f/a410c074d6214c954c8005aedb0e4a222c1534c5/locationtrackerlib-9224a8658f-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
